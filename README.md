@@ -1,6 +1,6 @@
 # .dotfiles
 ## GNOME Extensions
-1. [Audio Selector](https://extensions.gnome.org/extension/5135/audio-selector/)
+
 2. [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets)
 3. [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 4. [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
@@ -50,7 +50,7 @@ last update : 6 Mar 2023
 
 
 
-> deps:
+> deps: ( only on deb/ubuntu base distro ) 
 ```
 
 sudo apt update
