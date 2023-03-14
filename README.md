@@ -1,10 +1,10 @@
 # .dotfiles
 ## GNOME Extensions
 
-2. [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets)
-3. [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
-4. [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
-5. [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+1. [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets)
+2. [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+3. [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+4. [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 6. [Desktop Icons NG (DING)](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/)
 7. [Hide Activities Button](https://extensions.gnome.org/extension/744/hide-activities-button/)
 8. [IdeaPad Controls](https://extensions.gnome.org/extension/5260/ideapad-controls/)
@@ -16,7 +16,6 @@
 14. [Space Bar](https://extensions.gnome.org/extension/5090/space-bar/)
 15. [Transparent Top Bar](https://extensions.gnome.org/extension/1708/transparent-top-bar/)
 16. [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-17. [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 ## font
 > FiraCode Nerd Font
 ## config dir
